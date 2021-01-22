@@ -1,0 +1,60 @@
+.result-section {
+  text-align: center;
+}
+
+.draw-block {
+  /* text-align: center; */
+}
+
+.draw-section {
+  font-size: 40px;
+  padding-bottom: 40px;
+  padding-top: 40px;
+  margin-top: 100px;
+  color: red;
+}
+
+.contribute-button {
+  margin-left: 18px,
+}
+
+.start-form {
+  position: absolute;
+  bottom: 50px;
+  /* align-items: center; */
+  /* justify-content: center; */
+  width: 100%;
+  display: flex;
+  align-items: center;
+}
+
+.draw-button-wrapper {
+  display: flex;
+  justify-content: center;
+
+}
+
+.draw-button-wrapper button {
+  width: 400px;
+  height: 60px;
+  border-radius: 10px;
+  font-size: 2rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 20px;
+}
+
+.draw-button-wrapper .btn-block + .btn-block {
+  margin-top: 20px
+}
+
+.award-result {
+  text-align: center;
+  margin-top: 150px;
+}
+
+.fullname {
+  font-weight: 700;
+  font-size: 3.8rem;
+}
